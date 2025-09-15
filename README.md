@@ -1,3 +1,4 @@
-Python code for Speech Emotion Recognition using cochleagram feature from Bangla audio samples(augmented and non-augmented). 
-BanglaSER dataset provided the samples.
-This work is represented in ICEEICT, 2024
+Python code for Speech Emotion Recognition using cochleagram feature from BanglaSER dataset.
+Hybrid CNN-GRU network with a self-attention mechanism is used.
+Code for both augmented and non-augmented samples are included.
+This work has been represented in ICEEICT,2024.
